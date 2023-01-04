@@ -362,7 +362,7 @@ public class SupplyChain extends Application {
     public void start(Stage stage) throws IOException {
 //        FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("hello-view.fxml"));
         Scene scene = new Scene(createContent());
-        stage.setTitle("Gadgets Hub - Apni better dukan");
+        stage.setTitle("Gadgets Hub - Online tech shopping portal");
         stage.setScene(scene);
         stage.show();
         stage.centerOnScreen();
